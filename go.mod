@@ -1,4 +1,4 @@
-module github.com/Tencent/bk-bcs
+module github.com/marklinglon/bcs-gamestatefulset
 
 go 1.14
 
